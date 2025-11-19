@@ -1,1 +1,106 @@
+1. What is Power BI, and what are its three main components?
+EN:
+Power BI is a business analytics tool by Microsoft that helps users visualize data, create reports, and share insights. Its three main components are:
+1.	Power BI Desktop – for creating reports.
+2.	Power BI Service – for publishing, sharing, and collaboration online.
+3.	Power BI Mobile – for accessing reports on mobile devices.
+UZ:
+Power BI — Microsoftning biznes tahlili vositasi bo‘lib, u ma’lumotlarni vizuallashtirish, hisobotlar yaratish va ulashishga yordam beradi. Uning uchta asosiy komponenti:
+1.	Power BI Desktop – hisobot yaratish uchun.
+2.	Power BI Service – hisobotlarni yuklash, baham ko‘rish va hamkorlik qilish uchun.
+3.	Power BI Mobile – mobil qurilmalarda hisobotlarni ko‘rish uchun.
+________________________________________
+2. Name two business use cases for Power BI dashboards.
+EN:
+1.	Sales performance tracking
+2.	Financial reporting and forecasting
+UZ:
+1.	Savdo ko‘rsatkichlarini kuzatish
+2.	Moliyaviy hisobot va prognoz qilish
+________________________________________
+3. How do you download and install Power BI Desktop?
+EN:
+You can download Power BI Desktop from the Microsoft Store or from Microsoft’s official website (powerbi.microsoft.com). Install it by opening the setup file and following the installation steps.
+UZ:
+Power BI Desktop-ni Microsoft Store’dan yoki rasmiy Microsoft saytida (powerbi.microsoft.com) yuklab olasiz. O‘rnatish faylini ishga tushirib, ko‘rsatmalarga amal qilib o‘rnatiladi.
+________________________________________
+4. What is the difference between Power BI Desktop and Power BI Service?
+EN:
+Power BI Desktop is used for building reports, while Power BI Service is used for publishing, sharing, and viewing reports online.
+UZ:
+Power BI Desktop — hisobot yaratish uchun;
+Power BI Service — hisobotlarni onlayn yuklash, ulashish va ko‘rish uchun.
+________________________________________
+5. What file extension does a Power BI project use?
+EN:
+A Power BI project uses the .pbix file extension.
+UZ:
+Power BI loyihasi .pbix kengaytmali fayldan foydalanadi.
+________________________________________
+6. Explain the role of Power Query in Power BI.
+EN:
+Power Query is used for data transformation—cleaning, filtering, merging, and shaping data before building visualizations.
+UZ:
+Power Query ma’lumotlarni tozalash, filtrlash, birlashtirish va shakllantirish uchun ishlatiladi, ya’ni vizualizatsiya oldidan ma’lumotlarni tayyorlaydi.
+________________________________________
+7. Why would a business prefer Power BI over Excel for reporting?
+EN:
+Power BI offers better visualizations, automation, real-time dashboards, and easier data refresh compared to Excel.
+UZ:
+Power BI Excelga nisbatan yanada chiroyli grafiklar, avtomatlashtirilgan hisobotlar, real-time dashboardlar va ma’lumotni oson yangilash imkonini beradi.
+________________________________________
+8. Describe one limitation of the free version of Power BI.
+EN:
+You cannot share dashboards with others using the free version.
+UZ:
+Bepul versiyada dashboardlarni boshqa odamlarga ulashib bo‘lmaydi.
+________________________________________
+9. What is a "published report" in Power BI Service?
+EN:
+A published report is a report created in Power BI Desktop and uploaded to Power BI Service for viewing and sharing.
+UZ:
+Published report — Power BI Desktopda yaratilgan va Power BI Service’ga yuklangan hisobot bo‘lib, uni ko‘rish va ulashish mumkin.
+________________________________________
+10. How does Power BI Mobile enhance accessibility?
+EN:
+It allows users to view dashboards and reports on the go using smartphones or tablets.
+UZ:
+Smartfon yoki planshet orqali hisobotlarni istalgan joydan ko‘rish imkonini beradi.
+________________________________________
+11. Compare Power BI with Tableau — pros and cons.
+EN:
+Power BI Pros: Cheaper, easier to learn, integrates with Microsoft tools.
+Power BI Cons: Limited advanced visuals compared to Tableau.
+Tableau Pros: More powerful visualizations and analytics.
+Tableau Cons: Expensive and harder to learn.
+UZ:
+Power BI afzalliklari: Arzon, oson o‘rganiladi, Microsoft xizmatlari bilan yaxshi integratsiya.
+Kamchiliklari: Tableau’ga nisbatan kichikroq vizual imkoniyatlar.
+Tableau afzalliklari: Kuchli vizualizatsiya va tahlil imkoniyatlari.
+Kamchiliklari: Qimmat va o‘rganish qiyin.
+________________________________________
+12. Explain how Power BI integrates with Azure services.
+EN:
+Power BI integrates with Azure SQL, Azure Synapse, Azure Data Lake, and Azure Machine Learning for seamless data analysis.
+UZ:
+Power BI Azure SQL, Azure Synapse, Azure Data Lake va Azure Machine Learning bilan integratsiya bo‘lib, ma’lumotlarni qulay tahlil qilishni ta’minlaydi.
+________________________________________
+13. What are "gateways" in Power BI, and when are they needed?
+EN:
+Gateways connect on-premise data sources (local databases/files) to Power BI Service for scheduled refresh.
+UZ:
+Gatewaylar — lokal (kompyuter yoki serverdagi) ma’lumotlar bazalarini Power BI Service bilan bog‘lab, avtomatik yangilanish imkonini beradi.
+________________________________________
+14. How would you convince a company to adopt Power BI? (ROI argument)
+EN:
+Power BI reduces reporting time, automates data refresh, improves decision-making, and saves money by eliminating manual reporting.
+UZ:
+Power BI hisobot tayyorlash vaqtini qisqartiradi, ma’lumotlarni avtomatik yangilaydi, qaror qabul qilishni yaxshilaydi va qo‘lda hisobot qilish xarajatlarini kamaytiradi — bu ROI ni oshiradi.
+________________________________________
+15. What security features does Power BI offer for sensitive data?
+EN:
+Power BI provides data encryption, row-level security (RLS), access control, and compliance with enterprise security standards.
+UZ:
+Power BI ma’lumotlarni shifrlash, satr darajasida xavfsizlik (RLS), kirishni boshqarish va xavfsizlik standartlariga moslikni ta’minlaydi.
+
 
